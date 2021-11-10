@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618389837 source:d:\cb\pro\gauss\main.cpp
+	<iostream>
+	<immintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+

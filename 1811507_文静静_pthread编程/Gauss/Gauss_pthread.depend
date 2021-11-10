@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1620549936 source:d:\cb\pro\gauss_pthread\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<windows.h>
+	<immintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1621698193 source:d:\cb\pro\gauss_openmp\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<omp.h>
+	<time.h>
+	<windows.h>
+	<immintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+
